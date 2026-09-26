@@ -1,0 +1,140 @@
+[
+  {
+    "id": "original",
+    "nombre": "Original",
+    "colorValue": 4280361248,
+    "orden": 1
+  },
+  {
+    "id": "juice",
+    "nombre": "Juice",
+    "colorValue": 4294901760,
+    "orden": 2
+  },
+  {
+    "id": "reserve",
+    "nombre": "Reserve",
+    "colorValue": 4294951175,
+    "orden": 3
+  },
+  {
+    "id": "nitro",
+    "nombre": "Nitro",
+    "colorValue": 4280391418,
+    "orden": 4
+  },
+  {
+    "id": "ultra",
+    "nombre": "Ultra",
+    "colorValue": 4294967295,
+    "orden": 5
+  },
+  {
+    "id": "tour_water",
+    "nombre": "Tour Water",
+    "colorValue": 4281559496,
+    "orden": 6
+  },
+  {
+    "id": "java",
+    "nombre": "Java",
+    "colorValue": 4289724448,
+    "orden": 7
+  },
+  {
+    "id": "cafe",
+    "nombre": "Cafe",
+    "colorValue": 4282664004,
+    "orden": 8
+  },
+  {
+    "id": "hydro",
+    "nombre": "Hydro",
+    "colorValue": 4283215695,
+    "orden": 9
+  },
+  {
+    "id": "rehab",
+    "nombre": "Rehab",
+    "colorValue": 4294940672,
+    "orden": 10
+  },
+  {
+    "id": "edicion_especial",
+    "nombre": "Edición Especial",
+    "colorValue": 4288423856,
+    "orden": 11
+  },
+  {
+    "id": "dragon",
+    "nombre": "Dragon",
+    "colorValue": 4283782485,
+    "orden": 12
+  },
+  {
+    "id": "the_beast_unleashed",
+    "nombre": "The Beast Unleashed",
+    "colorValue": 4294918830,
+    "orden": 13
+  },
+  {
+  "id": "the_beast_perfect_10",
+  "nombre": "The Beast Perfect 10",
+  "colorValue": 4294967295,
+  "orden": 14
+},
+  {
+    "id": "nasty_beast_hard_tea",
+    "nombre": "Nasty Beast Hard Tea",
+    "colorValue": 4286611584,
+    "orden": 15
+  },
+  {
+    "id": "blind_lemon",
+    "nombre": "Blind Lemon",
+    "colorValue": 4294961979,
+    "orden": 16
+  },
+  {
+    "id": "maxx",
+    "nombre": "MAXX",
+    "colorValue": 4287137928,
+    "orden": 17
+  },
+  {
+    "id": "extra_strength_nitrous",
+    "nombre": "Extra Strength Nitrous",
+    "colorValue": 4282339768,
+    "orden": 18
+  },
+  {
+    "id": "muscle",
+    "nombre": "Muscle",
+    "colorValue": 4283215695,
+    "orden": 19
+  },
+  {
+  "id": "super_fuel",
+  "nombre": "Super Fuel",
+  "colorValue": 4280391418,
+  "orden": 20
+  },  
+  {
+    "id": "hitman",
+    "nombre": "Hitman",
+    "colorValue": 4283782485,
+    "orden": 21
+  },
+  {
+    "id": "hydrosports_super_fuel",
+    "nombre": "Hydrosports Super Fuel",
+    "colorValue": 4281559496,
+    "orden": 22
+  },
+  {
+  "id": "x_presso",
+  "nombre": "X-presso",
+  "colorValue": 4292983552,
+  "orden": 23
+  }
+]

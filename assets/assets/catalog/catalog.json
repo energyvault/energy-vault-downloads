@@ -1,0 +1,2978 @@
+[
+  {
+    "modelo": 1,
+    "id": "monster.original",
+    "nombre": "Monster Energy Original",
+    "nombreCorto": "Original",
+    "serieId": "Original",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 2,
+    "id": "monster.mango_loco",
+    "nombre": "Monster Mango Loco",
+    "nombreCorto": "Mango Loco",
+    "serieId": "Juice",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 3,
+    "id": "monster.pacific_punch",
+    "nombre": "Monster Pacific Punch",
+    "nombreCorto": "Pacific Punch",
+    "serieId": "Juice",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 4,
+    "id": "monster.pipeline_punch",
+    "nombre": "Monster Pipeline Punch",
+    "nombreCorto": "Pipeline Punch",
+    "serieId": "Juice",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 5,
+    "id": "monster.java_mean_bean",
+    "nombre": "Monster Java Mean Bean",
+    "nombreCorto": "Mean Bean",
+    "serieId": "Java",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 6,
+    "id": "monster.java_loca_moca",
+    "nombre": "Monster Java Loca Moca",
+    "nombreCorto": "Loca Moca",
+    "serieId": "Java",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 7,
+    "id": "monster.java_salted_caramel",
+    "nombre": "Monster Java Salted Caramel",
+    "nombreCorto": "Salted Caramel",
+    "serieId": "Java",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 8,
+    "id": "monster.java_cafe_latte",
+    "nombre": "Monster Java Café Latte",
+    "nombreCorto": "Café Latte",
+    "serieId": "Java",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 9,
+    "id": "monster.java_irish_creme",
+    "nombre": "Monster Java Irish Crème",
+    "nombreCorto": "Irish Crème",
+    "serieId": "Java",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 10,
+    "id": "monster.java_chocolate_dubai",
+    "nombre": "Monster Java Chocolate Dubai",
+    "nombreCorto": "Chocolate Dubai",
+    "serieId": "Java",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 11,
+    "id": "monster.java_kona_blend",
+    "nombre": "Monster Java Kona Blend",
+    "nombreCorto": "Kona Blend",
+    "serieId": "Java",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 12,
+    "id": "monster.java_irish_blend",
+    "nombre": "Monster Java Irish Blend",
+    "nombreCorto": "Irish Blend",
+    "serieId": "Java",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 13,
+    "id": "monster.java_vanilla_light",
+    "nombre": "Monster Java Vanilla Light",
+    "nombreCorto": "Vanilla Light",
+    "serieId": "Java",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 14,
+    "id": "monster.java_swiss_chocolate",
+    "nombre": "Monster Java Swiss Chocolate",
+    "nombreCorto": "Swiss Chocolate",
+    "serieId": "Java",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 15,
+    "id": "monster.java_kona_cappuccino",
+    "nombre": "Monster Java Kona Cappuccino",
+    "nombreCorto": "Kona Cappuccino",
+    "serieId": "Java",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 16,
+    "id": "monster.java_toffee",
+    "nombre": "Monster Java Toffee",
+    "nombreCorto": "Toffee",
+    "serieId": "Java",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 17,
+    "id": "monster.java_farmers_oats",
+    "nombre": "Monster Java Farmer's Oats",
+    "nombreCorto": "Farmer's Oats",
+    "serieId": "Java",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 18,
+    "id": "monster.java_kona_cappuccino_2",
+    "nombre": "Monster Java Kona Cappuccino",
+    "nombreCorto": "Kona Cappuccino",
+    "serieId": "Java",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 19,
+    "id": "monster.java_oatmilk",
+    "nombre": "Monster Java Oatmilk",
+    "nombreCorto": "Oatmilk",
+    "serieId": "Java",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 20,
+    "id": "monster.java_russian",
+    "nombre": "Monster Java Russian",
+    "nombreCorto": "Russian",
+    "serieId": "Java",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 21,
+    "id": "monster.java_originale",
+    "nombre": "Monster Java Originale",
+    "nombreCorto": "Originale",
+    "serieId": "Java",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 22,
+    "id": "monster.java_chai_hai",
+    "nombre": "Monster Java Chai Hai",
+    "nombreCorto": "Chai Hai",
+    "serieId": "Java",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 23,
+    "id": "monster.nitro_super_dry",
+    "nombre": "Monster Nitro Super Dry",
+    "nombreCorto": "Nitro Super Dry",
+    "serieId": "Nitro",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 24,
+    "id": "monster.nitro_cosmic_peach",
+    "nombre": "Monster Nitro Cosmic Peach",
+    "nombreCorto": "Nitro Cosmic Peach",
+    "serieId": "Nitro",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 25,
+    "id": "monster.nitro_blue_flash",
+    "nombre": "Monster Nitro Blue Flash",
+    "nombreCorto": "Nitro Blue Flash",
+    "serieId": "Nitro",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 26,
+    "id": "monster.reserve_white_pineapple",
+    "nombre": "Monster Reserve White Pineapple",
+    "nombreCorto": "White Pineapple",
+    "serieId": "Reserve",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 27,
+    "id": "monster.reserve_watermelon",
+    "nombre": "Monster Reserve Watermelon",
+    "nombreCorto": "Watermelon",
+    "serieId": "Reserve",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 28,
+    "id": "monster.reserve_kiwi_strawberry",
+    "nombre": "Monster Reserve Kiwi Strawberry",
+    "nombreCorto": "Kiwi Strawberry",
+    "serieId": "Reserve",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 29,
+    "id": "monster.reserve_orange_dreamsicle",
+    "nombre": "Monster Reserve Orange Dreamsicle",
+    "nombreCorto": "Orange Dreamsicle",
+    "serieId": "Reserve",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 30,
+    "id": "monster.reserve_peaches_n_creme",
+    "nombre": "Monster Reserve Peaches n’ Crème",
+    "nombreCorto": "Peaches n’ Crème",
+    "serieId": "Reserve",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 31,
+    "id": "monster.ultra_zero",
+    "nombre": "Monster Ultra Zero",
+    "nombreCorto": "Zero Ultra",
+    "serieId": "Ultra",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 32,
+    "id": "monster.ultra_red",
+    "nombre": "Monster Ultra Red",
+    "nombreCorto": "Ultra Red",
+    "serieId": "Ultra",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 33,
+    "id": "monster.ultra_blue",
+    "nombre": "Monster Ultra Blue",
+    "nombreCorto": "Ultra Blue",
+    "serieId": "Ultra",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 34,
+    "id": "monster.ultra_black",
+    "nombre": "Monster Ultra Black",
+    "nombreCorto": "Ultra Black",
+    "serieId": "Ultra",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 35,
+    "id": "monster.ultra_violet",
+    "nombre": "Monster Ultra Violet",
+    "nombreCorto": "Ultra Violet",
+    "serieId": "Ultra",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 36,
+    "id": "monster.ultra_sunrise",
+    "nombre": "Monster Ultra Sunrise",
+    "nombreCorto": "Ultra Sunrise",
+    "serieId": "Ultra",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 37,
+    "id": "monster.ultra_paradise",
+    "nombre": "Monster Ultra Paradise",
+    "nombreCorto": "Ultra Paradise",
+    "serieId": "Ultra",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 38,
+    "id": "monster.ultra_watermelon",
+    "nombre": "Monster Ultra Watermelon",
+    "nombreCorto": "Ultra Watermelon",
+    "serieId": "Ultra",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 39,
+    "id": "monster.ultra_fiesta_mango",
+    "nombre": "Monster Ultra Fiesta Mango",
+    "nombreCorto": "Ultra Fiesta Mango",
+    "serieId": "Ultra",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 40,
+    "id": "monster.ultra_gold_pineapple",
+    "nombre": "Monster Ultra Gold Pineapple",
+    "nombreCorto": "Ultra Gold Pineapple",
+    "serieId": "Ultra",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 41,
+    "id": "monster.ultra_rosa",
+    "nombre": "Monster Ultra Rosá",
+    "nombreCorto": "Ultra Rosá",
+    "serieId": "Ultra",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 42,
+    "id": "monster.ultra_peachy_keen",
+    "nombre": "Monster Ultra Peachy Keen",
+    "nombreCorto": "Ultra Peachy Keen",
+    "serieId": "Ultra",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 43,
+    "id": "monster.ultra_strawberry_dreams",
+    "nombre": "Monster Ultra Strawberry Dreams",
+    "nombreCorto": "Ultra Strawberry Dreams",
+    "serieId": "Ultra",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 44,
+    "id": "monster.ultra_fantasy_ruby_red",
+    "nombre": "Monster Ultra Fantasy Ruby Red",
+    "nombreCorto": "Ultra Fantasy Ruby Red",
+    "serieId": "Ultra",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 45,
+    "id": "monster.ultra_citron",
+    "nombre": "Monster Ultra Citron",
+    "nombreCorto": "Ultra Citron",
+    "serieId": "Ultra",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 46,
+    "id": "monster.ultra_vice_guava",
+    "nombre": "Monster Ultra Vice Guava",
+    "nombreCorto": "Ultra Vice Guava",
+    "serieId": "Ultra",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 47,
+    "id": "monster.ultra_blue_hawaiian",
+    "nombre": "Monster Ultra Blue Hawaiian",
+    "nombreCorto": "Ultra Blue Hawaiian",
+    "serieId": "Ultra",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 48,
+    "id": "monster.ultra_wild_passion",
+    "nombre": "Monster Ultra Wild Passion",
+    "nombreCorto": "Ultra Wild Passion",
+    "serieId": "Ultra",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 49,
+    "id": "monster.ultra_punk_punch",
+    "nombre": "Monster Ultra Punk Punch",
+    "nombreCorto": "Ultra Punk Punch",
+    "serieId": "Ultra",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 50,
+    "id": "monster.ultra_red_white_blue_razz",
+    "nombre": "Monster Ultra Red White Blue Razz",
+    "nombreCorto": "Ultra Red White Blue Razz",
+    "serieId": "Ultra",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 51,
+    "id": "monster.cafe_killer_brew_mean_bean",
+    "nombre": "Monster Killer Brew Mean Bean",
+    "nombreCorto": "Killer Brew Mean Bean",
+    "serieId": "Cafe",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 52,
+    "id": "monster.cafe_killer_brew_loca_moca",
+    "nombre": "Monster Killer Brew Loca Moca",
+    "nombreCorto": "Killer Brew Loca Moca",
+    "serieId": "Cafe",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 53,
+    "id": "monster.cafe_300_french_vanilla",
+    "nombre": "Monster 300 French Vanilla",
+    "nombreCorto": "300 French Vanilla",
+    "serieId": "Cafe",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 54,
+    "id": "monster.cafe_300_mocha",
+    "nombre": "Monster 300 Mocha",
+    "nombreCorto": "300 Mocha",
+    "serieId": "Cafe",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 55,
+    "id": "monster.cafe_espresso_vanilla",
+    "nombre": "Monster Espresso Vanilla",
+    "nombreCorto": "Espresso Vanilla",
+    "serieId": "Cafe",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 56,
+    "id": "monster.cafe_espresso_cream",
+    "nombre": "Monster Espresso & Cream",
+    "nombreCorto": "Espresso & Cream",
+    "serieId": "Cafe",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 57,
+    "id": "monster.cafe_espresso_salted_caramel",
+    "nombre": "Monster Espresso Salted Caramel",
+    "nombreCorto": "Espresso Salted Caramel",
+    "serieId": "Cafe",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 58,
+    "id": "monster.cafe_vanilla",
+    "nombre": "Monster Caffé Monster Vanilla",
+    "nombreCorto": "Caffé Monster Vanilla",
+    "serieId": "Cafe",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 59,
+    "id": "monster.cafe_mocha",
+    "nombre": "Monster Caffé Monster Mocha",
+    "nombreCorto": "Caffé Monster Mocha",
+    "serieId": "Cafe",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 60,
+    "id": "monster.cafe_salted_caramel",
+    "nombre": "Monster Caffé Monster Salted Caramel",
+    "nombreCorto": "Caffé Monster Salted Caramel",
+    "serieId": "Cafe",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 61,
+    "id": "monster.cafe_java_nitro_cold_brew_sweet_black",
+    "nombre": "Monster Java Nitro Cold Brew Sweet Black",
+    "nombreCorto": "Nitro Cold Brew Sweet Black",
+    "serieId": "Cafe",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 62,
+    "id": "monster.cafe_java_nitro_cold_brew_latte",
+    "nombre": "Monster Java Nitro Cold Brew Latte",
+    "nombreCorto": "Nitro Cold Brew Latte",
+    "serieId": "Cafe",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 63,
+    "id": "monster.ultra_fiesta",
+    "nombre": "Monster Ultra Fiesta",
+    "nombreCorto": "Ultra Fiesta",
+    "serieId": "Ultra",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 64,
+    "id": "monster.dragon_ice_tea_lemon",
+    "nombre": "Monster Dragon Ice Tea Lemon",
+    "nombreCorto": "Ice Tea Lemon",
+    "serieId": "Dragon",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 65,
+    "id": "monster.dragon_ice_tea_peach",
+    "nombre": "Monster Dragon Ice Tea Peach",
+    "nombreCorto": "Ice Tea Peach",
+    "serieId": "Dragon",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 66,
+    "id": "monster.dragon_green_tea_2",
+    "nombre": "Monster Dragon Green Tea 2",
+    "nombreCorto": "Green Tea 2",
+    "serieId": "Dragon",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 67,
+    "id": "monster.dragon_white_tea",
+    "nombre": "Monster Dragon White Tea",
+    "nombreCorto": "White Tea",
+    "serieId": "Dragon",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 68,
+    "id": "monster.dragon_yerba_mate",
+    "nombre": "Monster Dragon Yerba Mate",
+    "nombreCorto": "Yerba Mate",
+    "serieId": "Dragon",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 69,
+    "id": "monster.dragon_lemon_tea",
+    "nombre": "Monster Dragon Lemon Tea",
+    "nombreCorto": "Lemon Tea",
+    "serieId": "Dragon",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 70,
+    "id": "monster.dragon_peach_tea",
+    "nombre": "Monster Dragon Peach Tea",
+    "nombreCorto": "Peach Tea",
+    "serieId": "Dragon",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 71,
+    "id": "monster.dragon_raspberry_tea",
+    "nombre": "Monster Dragon Raspberry Tea",
+    "nombreCorto": "Raspberry Tea",
+    "serieId": "Dragon",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 72,
+    "id": "monster.dragon_green_tea",
+    "nombre": "Monster Dragon Green Tea",
+    "nombreCorto": "Green Tea",
+    "serieId": "Dragon",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 73,
+    "id": "monster.dragon_gold_tea_china",
+    "nombre": "Monster Dragon Gold Tea China",
+    "nombreCorto": "Gold Tea China",
+    "serieId": "Dragon",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 74,
+    "id": "monster.dragon_tea_china",
+    "nombre": "Monster Dragon Tea China",
+    "nombreCorto": "Tea China",
+    "serieId": "Dragon",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 75,
+    "id": "monster.maxx_eclipse",
+    "nombre": "Monster MAXX Eclipse",
+    "nombreCorto": "Eclipse",
+    "serieId": "MAXX",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 76,
+    "id": "monster.maxx_mango_matic",
+    "nombre": "Monster MAXX Mango Matic",
+    "nombreCorto": "Mango Matic",
+    "serieId": "MAXX",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 77,
+    "id": "monster.maxx_rad_red",
+    "nombre": "Monster MAXX Rad Red",
+    "nombreCorto": "Rad Red",
+    "serieId": "MAXX",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 78,
+    "id": "monster.maxx_solaris",
+    "nombre": "Monster MAXX Solaris",
+    "nombreCorto": "Solaris",
+    "serieId": "MAXX",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 79,
+    "id": "monster.maxx_super_dry",
+    "nombre": "Monster MAXX Super Dry",
+    "nombreCorto": "Super Dry",
+    "serieId": "MAXX",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 80,
+    "id": "monster.tour_water_deep_well_water",
+    "nombre": "Monster Tour Water Deep Well Water",
+    "nombreCorto": "Deep Well Water",
+    "serieId": "Tour Water",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 81,
+    "id": "monster.tour_water_sparkling_deep_well_water",
+    "nombre": "Monster Tour Water Sparkling Deep Well Water",
+    "nombreCorto": "Sparkling Deep Well Water",
+    "serieId": "Tour Water",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 82,
+    "id": "monster.tour_water",
+    "nombre": "Monster Tour Water",
+    "nombreCorto": "Tour Water",
+    "serieId": "Tour Water",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 83,
+    "id": "monster.tour_water_its_just_water_sparkling",
+    "nombre": "Monster Tour Water It's Just Water Sparkling",
+    "nombreCorto": "It's Just Water Sparkling",
+    "serieId": "Tour Water",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 84,
+    "id": "monster.tour_water_projekt_revolution",
+    "nombre": "Monster Tour Water ProjekT Revolution",
+    "nombreCorto": "ProjekT Revolution",
+    "serieId": "Tour Water",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 85,
+    "id": "monster.tour_water_warped_tour_04",
+    "nombre": "Monster Tour Water Warped Tour '04",
+    "nombreCorto": "Warped Tour '04",
+    "serieId": "Tour Water",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 86,
+    "id": "monster.tour_water_warped_tour_05",
+    "nombre": "Monster Tour Water Warped Tour '05",
+    "nombreCorto": "Warped Tour '05",
+    "serieId": "Tour Water",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 87,
+    "id": "monster.tour_water_warped_tour_06",
+    "nombre": "Monster Tour Water Warped Tour '06",
+    "nombreCorto": "Warped Tour '06",
+    "serieId": "Tour Water",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 88,
+    "id": "monster.tour_water_warped_tour_07",
+    "nombre": "Monster Tour Water Warped Tour '07",
+    "nombreCorto": "Warped Tour '07",
+    "serieId": "Tour Water",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 89,
+    "id": "monster.tour_water_warped_tour_08",
+    "nombre": "Monster Tour Water Warped Tour '08",
+    "nombreCorto": "Warped Tour '08",
+    "serieId": "Tour Water",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 90,
+    "id": "monster.tour_water_its_just_water",
+    "nombre": "Monster Tour Water It's Just Water",
+    "nombreCorto": "It's Just Water",
+    "serieId": "Tour Water",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 91,
+    "id": "monster.the_beast_mean_green",
+    "nombre": "Monster The Beast Mean Green",
+    "nombreCorto": "The Beast Mean Green",
+    "serieId": "The Beast Unleashed",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 92,
+    "id": "monster.the_beast_white_haze",
+    "nombre": "Monster The Beast White Haze",
+    "nombreCorto": "The Beast White Haze",
+    "serieId": "The Beast Unleashed",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 93,
+    "id": "monster.the_beast_peach_perfect",
+    "nombre": "Monster The Beast Peach Perfect",
+    "nombreCorto": "The Beast Peach Perfect",
+    "serieId": "The Beast Unleashed",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 94,
+    "id": "monster.the_beast_scary_berries",
+    "nombre": "Monster The Beast Scary Berries",
+    "nombreCorto": "The Beast Scary Berries",
+    "serieId": "The Beast Unleashed",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 95,
+    "id": "monster.the_beast_killer_sunrise",
+    "nombre": "Monster The Beast Killer Sunrise",
+    "nombreCorto": "The Beast Killer Sunrise",
+    "serieId": "The Beast Unleashed",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 96,
+    "id": "monster.the_beast_gnarly_grape",
+    "nombre": "Monster The Beast Gnarly Grape",
+    "nombreCorto": "The Beast Gnarly Grape",
+    "serieId": "The Beast Unleashed",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 97,
+    "id": "monster.the_beast_pink_poison",
+    "nombre": "Monster The Beast Pink Poison",
+    "nombreCorto": "The Beast Pink Poison",
+    "serieId": "The Beast Unleashed",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 98,
+    "id": "monster.the_beast_mean_green_2",
+    "nombre": "Monster The Beast Mean Green",
+    "nombreCorto": "The Beast Mean Green",
+    "serieId": "The Beast Unleashed",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 99,
+    "id": "monster.the_beast_white_haze_2",
+    "nombre": "Monster The Beast White Haze",
+    "nombreCorto": "The Beast White Haze",
+    "serieId": "The Beast Unleashed",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 100,
+    "id": "monster.the_beast_scary_berries_2",
+    "nombre": "Monster The Beast Scary Berries",
+    "nombreCorto": "The Beast Scary Berries",
+    "serieId": "The Beast Unleashed",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 101,
+    "id": "monster.the_beast_peach_perfect_2",
+    "nombre": "Monster The Beast Peach Perfect",
+    "nombreCorto": "The Beast Peach Perfect",
+    "serieId": "The Beast Unleashed",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 102,
+    "id": "monster.the_beast_perfect_10_tiki_terror",
+    "nombre": "Monster The Beast Tiki Terror",
+    "nombreCorto": "The Beast Tiki Terror",
+    "serieId": "The Beast Perfect 10",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 103,
+    "id": "monster.the_beast_perfect_10_scary_berries",
+    "nombre": "Monster The Beast Scary Berries",
+    "nombreCorto": "The Beast Scary Berries",
+    "serieId": "The Beast Perfect 10",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 104,
+    "id": "monster.the_beast_perfect_10_gnarly_grape",
+    "nombre": "Monster The Beast Gnarly Grape",
+    "nombreCorto": "The Beast Gnarly Grape",
+    "serieId": "The Beast Perfect 10",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 105,
+    "id": "monster.the_beast_perfect_10_mean_green",
+    "nombre": "Monster The Beast Mean Green",
+    "nombreCorto": "The Beast Mean Green",
+    "serieId": "The Beast Perfect 10",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 106,
+    "id": "monster.beast_tea_original",
+    "nombre": "Monster Beast Tea Original",
+    "nombreCorto": "Beast Tea Original",
+    "serieId": "Nasty Beast Hard Tea",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 107,
+    "id": "monster.beast_tea_tea_lemonade",
+    "nombre": "Monster Beast Tea Tea + Lemonade",
+    "nombreCorto": "Beast Tea Tea + Lemonade",
+    "serieId": "Nasty Beast Hard Tea",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 108,
+    "id": "monster.beast_tea_tea_lemonade_2",
+    "nombre": "Monster Beast Tea Tea + Lemonade",
+    "nombreCorto": "Beast Tea Tea + Lemonade",
+    "serieId": "Nasty Beast Hard Tea",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 109,
+    "id": "monster.beast_tea_original_2",
+    "nombre": "Monster Beast Tea Original",
+    "nombreCorto": "Beast Tea Original",
+    "serieId": "Nasty Beast Hard Tea",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 110,
+    "id": "monster.nasty_beast_peach",
+    "nombre": "Monster Nasty Beast Peach",
+    "nombreCorto": "Nasty Beast Peach",
+    "serieId": "Nasty Beast Hard Tea",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 111,
+    "id": "monster.nasty_beast_green_tea",
+    "nombre": "Monster Nasty Beast Green Tea",
+    "nombreCorto": "Nasty Beast Green Tea",
+    "serieId": "Nasty Beast Hard Tea",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 112,
+    "id": "monster.nasty_beast_original",
+    "nombre": "Monster Nasty Beast Original",
+    "nombreCorto": "Nasty Beast Original",
+    "serieId": "Nasty Beast Hard Tea",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 113,
+    "id": "monster.nasty_beast_tea_lemonade",
+    "nombre": "Monster Nasty Beast Tea + Lemonade",
+    "nombreCorto": "Nasty Beast Tea + Lemonade",
+    "serieId": "Nasty Beast Hard Tea",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 114,
+    "id": "monster.blind_lemon_original_lemonade",
+    "nombre": "Monster Blind Lemon Original Lemonade",
+    "nombreCorto": "Original Lemonade",
+    "serieId": "Blind Lemon",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 115,
+    "id": "monster.blind_lemon_cherry_lemonade",
+    "nombre": "Monster Blind Lemon Cherry Lemonade",
+    "nombreCorto": "Cherry Lemonade",
+    "serieId": "Blind Lemon",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 116,
+    "id": "monster.blind_lemon_strawberry_lemonade",
+    "nombre": "Monster Blind Lemon Strawberry Lemonade",
+    "nombreCorto": "Strawberry Lemonade",
+    "serieId": "Blind Lemon",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 117,
+    "id": "monster.blind_lemon_peach_lemonade",
+    "nombre": "Monster Blind Lemon Peach Lemonade",
+    "nombreCorto": "Peach Lemonade",
+    "serieId": "Blind Lemon",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 118,
+    "id": "monster.blind_lemon_original_lemonade_2",
+    "nombre": "Monster Blind Lemon Original Lemonade",
+    "nombreCorto": "Original Lemonade",
+    "serieId": "Blind Lemon",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 119,
+    "id": "monster.blind_lemon_strawberry_lemonade_2",
+    "nombre": "Monster Blind Lemon Strawberry Lemonade",
+    "nombreCorto": "Strawberry Lemonade",
+    "serieId": "Blind Lemon",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 120,
+    "id": "monster.blind_lemon_liberty_lemonade",
+    "nombre": "Monster Blind Lemon Liberty Lemonade",
+    "nombreCorto": "Liberty Lemonade",
+    "serieId": "Blind Lemon",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 121,
+    "id": "monster.hydro_mean_green",
+    "nombre": "Monster Hydro Mean Green",
+    "nombreCorto": "Hydro Mean Green",
+    "serieId": "Hydro",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 122,
+    "id": "monster.hydro_manic_melon",
+    "nombre": "Monster Hydro Manic Melon",
+    "nombreCorto": "Hydro Manic Melon",
+    "serieId": "Hydro",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 123,
+    "id": "monster.hydro_zero_sugar_2",
+    "nombre": "Monster Hydro Zero Sugar",
+    "nombreCorto": "Hydro Zero Sugar",
+    "serieId": "Hydro",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 124,
+    "id": "monster.hydro_tropical_thunder_2",
+    "nombre": "Monster Hydro Tropical Thunder",
+    "nombreCorto": "Hydro Tropical Thunder",
+    "serieId": "Hydro",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 125,
+    "id": "monster.hydro_blue_ice_2",
+    "nombre": "Monster Hydro Blue Ice",
+    "nombreCorto": "Hydro Blue Ice",
+    "serieId": "Hydro",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 126,
+    "id": "monster.hydro_purple_passion_2",
+    "nombre": "Monster Hydro Purple Passion",
+    "nombreCorto": "Hydro Purple Passion",
+    "serieId": "Hydro",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 127,
+    "id": "monster.hydro_zero_sugar",
+    "nombre": "Monster Hydro Zero Sugar",
+    "nombreCorto": "Hydro Zero Sugar",
+    "serieId": "Hydro",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 128,
+    "id": "monster.hydro_tropical_thunder",
+    "nombre": "Monster Hydro Tropical Thunder",
+    "nombreCorto": "Hydro Tropical Thunder",
+    "serieId": "Hydro",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 129,
+    "id": "monster.hydro_purple_passion",
+    "nombre": "Monster Hydro Purple Passion",
+    "nombreCorto": "Hydro Purple Passion",
+    "serieId": "Hydro",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 130,
+    "id": "monster.hydro_blue_ice",
+    "nombre": "Monster Hydro Blue Ice",
+    "nombreCorto": "Hydro Blue Ice",
+    "serieId": "Hydro",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 131,
+    "id": "monster.hydro_super_sport_blue_streak",
+    "nombre": "Monster Hydro Super Sport Blue Streak",
+    "nombreCorto": "Hydro Super Sport Blue Streak",
+    "serieId": "Hydro",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 132,
+    "id": "monster.hydro_super_sport_red_dawg",
+    "nombre": "Monster Hydro Super Sport Red Dawg",
+    "nombreCorto": "Hydro Super Sport Red Dawg",
+    "serieId": "Hydro",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 133,
+    "id": "monster.hydro_manic_melon_2",
+    "nombre": "Monster Hydro Manic Melon",
+    "nombreCorto": "Hydro Manic Melon",
+    "serieId": "Hydro",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 134,
+    "id": "monster.hydro_tropical_thunder_3",
+    "nombre": "Monster Hydro Tropical Thunder",
+    "nombreCorto": "Hydro Tropical Thunder",
+    "serieId": "Hydro",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 135,
+    "id": "monster.hydro_mean_green_2",
+    "nombre": "Monster Hydro Mean Green",
+    "nombreCorto": "Hydro Mean Green",
+    "serieId": "Hydro",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 136,
+    "id": "monster.hydrosport_super_fuel_charge",
+    "nombre": "Monster Hydrosport Super Fuel Charge",
+    "nombreCorto": "Hydrosport Super Fuel Charge",
+    "serieId": "Hydrosports Super Fuel",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 137,
+    "id": "monster.hydrosport_super_fuel_hang_time",
+    "nombre": "Monster Hydrosport Super Fuel Hang Time",
+    "nombreCorto": "Hydrosport Super Fuel Hang Time",
+    "serieId": "Hydrosports Super Fuel",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 138,
+    "id": "monster.hydrosport_super_fuel_striker",
+    "nombre": "Monster Hydrosport Super Fuel Striker",
+    "nombreCorto": "Hydrosport Super Fuel Striker",
+    "serieId": "Hydrosports Super Fuel",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 139,
+    "id": "monster.muscle_vainilla",
+    "nombre": "Monster Muscle Vainilla",
+    "nombreCorto": "Monster Muscle Vainilla",
+    "serieId": "Muscle",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 140,
+    "id": "monster.muscle_chocolate",
+    "nombre": "Monster Muscle Chocolate",
+    "nombreCorto": "Monster Muscle Chocolate",
+    "serieId": "Muscle",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 141,
+    "id": "monster.muscle_vainilla_2",
+    "nombre": "Monster Muscle Vainilla",
+    "nombreCorto": "Monster Muscle Vainilla",
+    "serieId": "Muscle",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 142,
+    "id": "monster.muscle_chocolate_2",
+    "nombre": "Monster Muscle Chocolate",
+    "nombreCorto": "Monster Muscle Chocolate",
+    "serieId": "Muscle",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 143,
+    "id": "monster.muscle_banana",
+    "nombre": "Monster Muscle Banana",
+    "nombreCorto": "Monster Muscle Banana",
+    "serieId": "Muscle",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 144,
+    "id": "monster.muscle_strawberry",
+    "nombre": "Monster Muscle Strawberry",
+    "nombreCorto": "Monster Muscle Strawberry",
+    "serieId": "Muscle",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 145,
+    "id": "monster.muscle_vainilla_3",
+    "nombre": "Monster Muscle Vainilla",
+    "nombreCorto": "Monster Muscle Vainilla",
+    "serieId": "Muscle",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 146,
+    "id": "monster.muscle_peanut_butter_cup",
+    "nombre": "Monster Muscle Peanut Butter Cup",
+    "nombreCorto": "Monster Muscle Peanut Butter Cup",
+    "serieId": "Muscle",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 147,
+    "id": "monster.muscle_chocolate_3",
+    "nombre": "Monster Muscle Chocolate",
+    "nombreCorto": "Monster Muscle Chocolate",
+    "serieId": "Muscle",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 148,
+    "id": "monster.muscle_coffee",
+    "nombre": "Monster Muscle Coffee",
+    "nombreCorto": "Monster Muscle Coffee",
+    "serieId": "Muscle",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 149,
+    "id": "monster.muscle_strawberry_2",
+    "nombre": "Monster Muscle Strawberry",
+    "nombreCorto": "Monster Muscle Strawberry",
+    "serieId": "Muscle",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 150,
+    "id": "monster.hitman_energy_shooter",
+    "nombre": "Monster Hitman Energy Shooter",
+    "nombreCorto": "Monster Hitman Energy Shooter",
+    "serieId": "Hitman",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 151,
+    "id": "monster.lobo_energy_shooter",
+    "nombre": "Monster LoBo Energy Shooter",
+    "nombreCorto": "Monster LoBo Energy Shooter",
+    "serieId": "Hitman",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 152,
+    "id": "monster.sniper_energy_shooter",
+    "nombre": "Monster Sniper Energy Shooter",
+    "nombreCorto": "Monster Sniper Energy Shooter",
+    "serieId": "Hitman",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 153,
+    "id": "monster.nitrous_super_dry",
+    "nombre": "Monster Nitrous Super Dry",
+    "nombreCorto": "Nitrous Super Dry",
+    "serieId": "Extra Strength Nitrous",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 154,
+    "id": "monster.extra_strength_super_dry",
+    "nombre": "Monster Extra Strength Super Dry",
+    "nombreCorto": "Extra Strength Super Dry",
+    "serieId": "Extra Strength Nitrous",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 155,
+    "id": "monster.nitrous_killer_b",
+    "nombre": "Monster Nitrous Killer-B",
+    "nombreCorto": "Nitrous Killer-B",
+    "serieId": "Extra Strength Nitrous",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 156,
+    "id": "monster.extra_strength_killer_b",
+    "nombre": "Monster Extra Strength Killer-B",
+    "nombreCorto": "Extra Strength Killer-B",
+    "serieId": "Extra Strength Nitrous",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 157,
+    "id": "monster.nitrous_anti_gravity",
+    "nombre": "Monster Nitrous Anti Gravity",
+    "nombreCorto": "Nitrous Anti Gravity",
+    "serieId": "Extra Strength Nitrous",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 158,
+    "id": "monster.extra_strength_anti_gravity",
+    "nombre": "Monster Extra Strength Anti Gravity",
+    "nombreCorto": "Extra Strength Anti Gravity",
+    "serieId": "Extra Strength Nitrous",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 159,
+    "id": "monster.extra_strength_black_ice",
+    "nombre": "Monster Extra Strength Black Ice",
+    "nombreCorto": "Extra Strength Black Ice",
+    "serieId": "Extra Strength Nitrous",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 160,
+    "id": "monster.juice_monarch",
+    "nombre": "Monster Juice Monarch",
+    "nombreCorto": "Monarch",
+    "serieId": "Juice",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 161,
+    "id": "monster.juice_aussie_lemonade",
+    "nombre": "Monster Juice Aussie Lemonade",
+    "nombreCorto": "Aussie Lemonade",
+    "serieId": "Juice",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 162,
+    "id": "monster.juice_khaotic",
+    "nombre": "Monster Juice Khaotic",
+    "nombreCorto": "Khaotic",
+    "serieId": "Juice",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 163,
+    "id": "monster.juice_ripper",
+    "nombre": "Monster Juice Ripper",
+    "nombreCorto": "Ripper",
+    "serieId": "Juice",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 164,
+    "id": "monster.juice_mixxd_punch",
+    "nombre": "Monster Juice MIXXD Punch",
+    "nombreCorto": "MIXXD Punch",
+    "serieId": "Juice",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 165,
+    "id": "monster.juice_bad_apple",
+    "nombre": "Monster Juice Bad Apple",
+    "nombreCorto": "Bad Apple",
+    "serieId": "Juice",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 166,
+    "id": "monster.juice_rio_punch",
+    "nombre": "Monster Juice Rio Punch",
+    "nombreCorto": "Rio Punch",
+    "serieId": "Juice",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 167,
+    "id": "monster.juice_viking_berry",
+    "nombre": "Monster Juice Viking Berry",
+    "nombreCorto": "Viking Berry",
+    "serieId": "Juice",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 168,
+    "id": "monster.juice_strawberry_lemonade",
+    "nombre": "Monster Juice Strawberry Lemonade",
+    "nombreCorto": "Strawberry Lemonade",
+    "serieId": "Juice",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 169,
+    "id": "monster.juice_voodoo_grape",
+    "nombre": "Monster Juice Voodoo Grape",
+    "nombreCorto": "Voodoo Grape",
+    "serieId": "Juice",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 170,
+    "id": "monster.juice_khaos",
+    "nombre": "Monster Juice Khaos",
+    "nombreCorto": "Khaos",
+    "serieId": "Juice",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 171,
+    "id": "monster.juice_khaos_2",
+    "nombre": "Monster Juice Khaos",
+    "nombreCorto": "Khaos",
+    "serieId": "Juice",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 172,
+    "id": "monster.juice_khaos_3",
+    "nombre": "Monster Juice Khaos",
+    "nombreCorto": "Khaos",
+    "serieId": "Juice",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 173,
+    "id": "monster.juice_ripper_2",
+    "nombre": "Monster Juice Ripper",
+    "nombreCorto": "Ripper",
+    "serieId": "Juice",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 174,
+    "id": "monster.juice_ripper_3",
+    "nombre": "Monster Juice Ripper",
+    "nombreCorto": "Ripper",
+    "serieId": "Juice",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 175,
+    "id": "monster.juice_mixxd_punch_2",
+    "nombre": "Monster Juice MIXXD Punch",
+    "nombreCorto": "MIXXD Punch",
+    "serieId": "Juice",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 176,
+    "id": "monster.juice_mixxd",
+    "nombre": "Monster Juice MIXXD",
+    "nombreCorto": "MIXXD",
+    "serieId": "Juice",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 177,
+    "id": "monster.juice_ballers_blend",
+    "nombre": "Monster Juice Baller's Blend",
+    "nombreCorto": "Baller's Blend",
+    "serieId": "Juice",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 178,
+    "id": "monster.juice_mad_dog",
+    "nombre": "Monster Juice Mad Dog",
+    "nombreCorto": "Mad Dog",
+    "serieId": "Juice",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 179,
+    "id": "monster.juice_cuba_lima",
+    "nombre": "Monster Juice Cuba-Lima",
+    "nombreCorto": "Cuba-Lima",
+    "serieId": "Juice",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 180,
+    "id": "monster.juice_cuba_libre",
+    "nombre": "Monster Juice Cuba-Libre",
+    "nombreCorto": "Cuba-Libre",
+    "serieId": "Juice",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 181,
+    "id": "monster.juice_m_80",
+    "nombre": "Monster Juice M-80",
+    "nombreCorto": "M-80",
+    "serieId": "Juice",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 182,
+    "id": "monster.juice_m_100_ghost",
+    "nombre": "Monster Juice M-100 Ghost",
+    "nombreCorto": "M-100 Ghost",
+    "serieId": "Juice",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 183,
+    "id": "monster.juice_m_100_phantom",
+    "nombre": "Monster Juice M-100 Phantom",
+    "nombreCorto": "M-100 Phantom",
+    "serieId": "Juice",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 184,
+    "id": "monster.super_fuel_zero_sugar",
+    "nombre": "Monster Super Fuel Zero Sugar",
+    "nombreCorto": "Zero Sugar",
+    "serieId": "Super Fuel",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 185,
+    "id": "monster.super_fuel_purple_passion",
+    "nombre": "Monster Super Fuel Purple Passion",
+    "nombreCorto": "Purple Passion",
+    "serieId": "Super Fuel",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 186,
+    "id": "monster.super_fuel_tropical_thunder",
+    "nombre": "Monster Super Fuel Tropical Thunder",
+    "nombreCorto": "Tropical Thunder",
+    "serieId": "Super Fuel",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 187,
+    "id": "monster.super_fuel_blue_ice",
+    "nombre": "Monster Super Fuel Blue Ice",
+    "nombreCorto": "Blue Ice",
+    "serieId": "Super Fuel",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 188,
+    "id": "monster.super_fuel_mean_green",
+    "nombre": "Monster Super Fuel Mean Green",
+    "nombreCorto": "Mean Green",
+    "serieId": "Super Fuel",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 189,
+    "id": "monster.super_fuel_watermelon",
+    "nombre": "Monster Super Fuel Watermelon",
+    "nombreCorto": "Watermelon",
+    "serieId": "Super Fuel",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 190,
+    "id": "monster.super_fuel_sub_zero",
+    "nombre": "Monster Super Fuel Sub Zero",
+    "nombreCorto": "Sub Zero",
+    "serieId": "Super Fuel",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 191,
+    "id": "monster.super_fuel_red_dawg",
+    "nombre": "Monster Super Fuel Red Dawg",
+    "nombreCorto": "Red Dawg",
+    "serieId": "Super Fuel",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 192,
+    "id": "monster.super_fuel_blue_ice_2",
+    "nombre": "Monster Super Fuel Blue Ice",
+    "nombreCorto": "Blue Ice",
+    "serieId": "Super Fuel",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 193,
+    "id": "monster.super_fuel_blue_streak",
+    "nombre": "Monster Super Fuel Blue Streak",
+    "nombreCorto": "Blue Streak",
+    "serieId": "Super Fuel",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 194,
+    "id": "monster.rehab_tea_lemonade_3",
+    "nombre": "Monster Rehab Tea + Lemonade",
+    "nombreCorto": "Tea + Lemonade",
+    "serieId": "Rehab",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 195,
+    "id": "monster.rehab_tea_lemonade_2",
+    "nombre": "Monster Rehab Tea + Lemonade",
+    "nombreCorto": "Tea + Lemonade",
+    "serieId": "Rehab",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 196,
+    "id": "monster.rehab_tea_lemonade",
+    "nombre": "Monster Rehab Tea + Lemonade",
+    "nombreCorto": "Tea + Lemonade",
+    "serieId": "Rehab",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 197,
+    "id": "monster.rehab_peach_tea",
+    "nombre": "Monster Rehab Peach Tea",
+    "nombreCorto": "Peach Tea",
+    "serieId": "Rehab",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 198,
+    "id": "monster.rehab_peach_tea_2",
+    "nombre": "Monster Rehab Peach Tea",
+    "nombreCorto": "Peach Tea",
+    "serieId": "Rehab",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 199,
+    "id": "monster.rehab_wild_berry_tea",
+    "nombre": "Monster Rehab Wild Berry Tea",
+    "nombreCorto": "Wild Berry Tea",
+    "serieId": "Rehab",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 200,
+    "id": "monster.rehab_green_tea",
+    "nombre": "Monster Rehab Green Tea",
+    "nombreCorto": "Green Tea",
+    "serieId": "Rehab",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 201,
+    "id": "monster.rehab_green_tea_2",
+    "nombre": "Monster Rehab Green Tea",
+    "nombreCorto": "Green Tea",
+    "serieId": "Rehab",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 202,
+    "id": "monster.rehab_raspberry_tea",
+    "nombre": "Monster Rehab Raspberry Tea",
+    "nombreCorto": "Raspberry Tea",
+    "serieId": "Rehab",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 203,
+    "id": "monster.rehab_raspberry_tea_2",
+    "nombre": "Monster Rehab Raspberry Tea",
+    "nombreCorto": "Raspberry Tea",
+    "serieId": "Rehab",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 204,
+    "id": "monster.rehab_raspberry_tea_3",
+    "nombre": "Monster Rehab Raspberry Tea",
+    "nombreCorto": "Raspberry Tea",
+    "serieId": "Rehab",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 205,
+    "id": "monster.rehab_watermelon",
+    "nombre": "Monster Rehab Watermelon",
+    "nombreCorto": "Watermelon",
+    "serieId": "Rehab",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 206,
+    "id": "monster.rehab_tea_orangeade",
+    "nombre": "Monster Rehab Tea + Orangeade",
+    "nombreCorto": "Tea + Orangeade",
+    "serieId": "Rehab",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 207,
+    "id": "monster.rehab_tea_orangeade_2",
+    "nombre": "Monster Rehab Tea + Orangeade",
+    "nombreCorto": "Tea + Orangeade",
+    "serieId": "Rehab",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 208,
+    "id": "monster.rehab_tea_pink_lemonade",
+    "nombre": "Monster Rehab Tea + Pink Lemonade",
+    "nombreCorto": "Tea + Pink Lemonade",
+    "serieId": "Rehab",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 209,
+    "id": "monster.rehab_strawberry_lemonade",
+    "nombre": "Monster Rehab Strawberry + Lemonade",
+    "nombreCorto": "Strawberry + Lemonade",
+    "serieId": "Rehab",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 210,
+    "id": "monster.rehab_protein",
+    "nombre": "Monster Rehab Protein",
+    "nombreCorto": "Protein",
+    "serieId": "Rehab",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 211,
+    "id": "monster.rehab_rojo_tea",
+    "nombre": "Monster Rehab Rojo Tea",
+    "nombreCorto": "Rojo Tea",
+    "serieId": "Rehab",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 212,
+    "id": "monster.rehab_tea_lemonade_4",
+    "nombre": "Monster Rehab Tea + Lemonade Mini",
+    "nombreCorto": "Tea + Lemonade Mini",
+    "serieId": "Rehab",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 213,
+    "id": "monster.rehab_white_dragon_tea",
+    "nombre": "Monster Rehab White Dragon Tea",
+    "nombreCorto": "White Dragon Tea",
+    "serieId": "Rehab",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 214,
+    "id": "monster.original.zero_sugar",
+    "nombre": "Monster Zero Sugar",
+    "nombreCorto": "Zero Sugar",
+    "serieId": "Original",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 215,
+    "id": "monster.original.zero_sugar_2",
+    "nombre": "Monster Zero Sugar",
+    "nombreCorto": "Zero Sugar",
+    "serieId": "Original",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 216,
+    "id": "monster.original.zero_sugar_3",
+    "nombre": "Monster Zero Sugar",
+    "nombreCorto": "Zero Sugar",
+    "serieId": "Original",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 217,
+    "id": "monster.original.strawberry_shot",
+    "nombre": "Monster Strawberry Shot",
+    "nombreCorto": "Strawberry Shot",
+    "serieId": "Original",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 218,
+    "id": "monster.original.vanilla_shot",
+    "nombre": "Monster Vanilla Shot",
+    "nombreCorto": "Vanilla Shot",
+    "serieId": "Original",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 219,
+    "id": "monster.original.zero_sugar_strawberry_shot",
+    "nombre": "Monster Zero Sugar Strawberry Shot",
+    "nombreCorto": "Zero Sugar Strawberry Shot",
+    "serieId": "Original",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 220,
+    "id": "monster.original.zero_sugar_vanilla_shot",
+    "nombre": "Monster Zero Sugar Vanilla Shot",
+    "nombreCorto": "Zero Sugar Vanilla Shot",
+    "serieId": "Original",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 221,
+    "id": "monster.original.electric_blue",
+    "nombre": "Monster Electric Blue",
+    "nombreCorto": "Electric Blue",
+    "serieId": "Original",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 222,
+    "id": "monster.original.orange_dreamsicle",
+    "nombre": "Monster Orange Dreamsicle",
+    "nombreCorto": "Orange Dreamsicle",
+    "serieId": "Original",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 223,
+    "id": "monster.original.lo_carb",
+    "nombre": "Monster Lo-Carb",
+    "nombreCorto": "Lo-Carb",
+    "serieId": "Original",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 224,
+    "id": "monster.original.lo_carb_2",
+    "nombre": "Monster Lo-Carb",
+    "nombreCorto": "Lo-Carb",
+    "serieId": "Original",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 225,
+    "id": "monster.original.lo_carb_3",
+    "nombre": "Monster Lo-Carb",
+    "nombreCorto": "Lo-Carb",
+    "serieId": "Original",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 226,
+    "id": "monster.original.import",
+    "nombre": "Monster Import",
+    "nombreCorto": "Import",
+    "serieId": "Original",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 227,
+    "id": "monster.original.import_light",
+    "nombre": "Monster Import Light",
+    "nombreCorto": "Import Light",
+    "serieId": "Original",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 228,
+    "id": "monster.original.assault",
+    "nombre": "Monster Assault",
+    "nombreCorto": "Assault",
+    "serieId": "Original",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 229,
+    "id": "monster.original.assault_2",
+    "nombre": "Monster Assault",
+    "nombreCorto": "Assault",
+    "serieId": "Original",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 230,
+    "id": "monster.original.assault_3",
+    "nombre": "Monster Assault",
+    "nombreCorto": "Assault",
+    "serieId": "Original",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 231,
+    "id": "monster.original.full_throttle",
+    "nombre": "Monster Full Throttle",
+    "nombreCorto": "Full Throttle",
+    "serieId": "Original",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 232,
+    "id": "monster.original.absolutely_zero_mini",
+    "nombre": "Monster Absolutely Zero Mini",
+    "nombreCorto": "Absolutely Zero Mini",
+    "serieId": "Original",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 233,
+    "id": "monster.original.absolutely_zero_2",
+    "nombre": "Monster Absolutely Zero",
+    "nombreCorto": "Absolutely Zero",
+    "serieId": "Original",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 234,
+    "id": "monster.original.absolutely_zero_3",
+    "nombre": "Monster Absolutely Zero",
+    "nombreCorto": "Absolutely Zero",
+    "serieId": "Original",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 235,
+    "id": "monster.original.absolutely_zero_4",
+    "nombre": "Monster Absolutely Zero",
+    "nombreCorto": "Absolutely Zero",
+    "serieId": "Original",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 236,
+    "id": "monster.original.absolutely_zero_5",
+    "nombre": "Monster Absolutely Zero",
+    "nombreCorto": "Absolutely Zero",
+    "serieId": "Original",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 237,
+    "id": "monster.original.dub_edition_ballers_blend",
+    "nombre": "Monster Dub Edition Baller's Blend",
+    "nombreCorto": "Baller's Blend",
+    "serieId": "Original",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 238,
+    "id": "monster.original.dub_edition_mad_dog",
+    "nombre": "Monster Dub Edition Mad Dog",
+    "nombreCorto": "Mad Dog",
+    "serieId": "Original",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 239,
+    "id": "monster.original.dub_edition",
+    "nombre": "Monster Dub Edition",
+    "nombreCorto": "Dub Edition",
+    "serieId": "Original",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 240,
+    "id": "monster.original.dub_edition_2",
+    "nombre": "Monster Dub Edition",
+    "nombreCorto": "Dub Edition",
+    "serieId": "Original",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 241,
+    "id": "monster.original.mule",
+    "nombre": "Monster Mule",
+    "nombreCorto": "Mule",
+    "serieId": "Original",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 242,
+    "id": "monster.original.gronk",
+    "nombre": "Monster Gronk",
+    "nombreCorto": "Gronk",
+    "serieId": "Original",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 243,
+    "id": "monster.original.gronk_2",
+    "nombre": "Monster Gronk",
+    "nombreCorto": "Gronk",
+    "serieId": "Original",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 244,
+    "id": "monster.original.fury",
+    "nombre": "Monster Fury",
+    "nombreCorto": "Fury",
+    "serieId": "Original",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 245,
+    "id": "monster.original.unleaded",
+    "nombre": "Monster Unleaded",
+    "nombreCorto": "Unleaded",
+    "serieId": "Original",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 246,
+    "id": "monster.original.heavy_metal",
+    "nombre": "Monster Heavy Metal",
+    "nombreCorto": "Heavy Metal",
+    "serieId": "Original",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 247,
+    "id": "monster.original.xg",
+    "nombre": "Monster XG",
+    "nombreCorto": "XG",
+    "serieId": "Original",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 248,
+    "id": "monster.original.mutant_amarilla",
+    "nombre": "Monster Mutant Gold Strike",
+    "nombreCorto": "Mutant Gold Strike",
+    "serieId": "Original",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 249,
+    "id": "monster.original.mutant_naranja",
+    "nombre": "Monster Mutant Red Dawn",
+    "nombreCorto": "Mutant Red Dawn",
+    "serieId": "Original",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 250,
+    "id": "monster.original.mutant_verde",
+    "nombre": "Monster Mutant Green Flavor",
+    "nombreCorto": "Mutant Green Flavor",
+    "serieId": "Original",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 251,
+    "id": "monster.original.m3",
+    "nombre": "Monster M3",
+    "nombreCorto": "M3",
+    "serieId": "Original",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 252,
+    "id": "monster.original.m3_2",
+    "nombre": "Monster M3",
+    "nombreCorto": "M3",
+    "serieId": "Original",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 253,
+    "id": "monster.original.bfc",
+    "nombre": "Monster BFC",
+    "nombreCorto": "BFC",
+    "serieId": "Original",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 254,
+    "id": "monster.original.bfc_lo_carb",
+    "nombre": "Monster BFC Lo-Carb",
+    "nombreCorto": "BFC Lo-Carb",
+    "serieId": "Original",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 255,
+    "id": "monster.original.m",
+    "nombre": "Monster M",
+    "nombreCorto": "M",
+    "serieId": "Original",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 256,
+    "id": "monster.original.mega",
+    "nombre": "Monster Mega",
+    "nombreCorto": "Mega",
+    "serieId": "Original",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 257,
+    "id": "monster.original.xxl",
+    "nombre": "Monster XXL",
+    "nombreCorto": "XXL",
+    "serieId": "Original",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 258,
+    "id": "monster.original.xxl_lo_carb",
+    "nombre": "Monster XXL Lo-Carb",
+    "nombreCorto": "XXL Lo-Carb",
+    "serieId": "Original",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 259,
+    "id": "monster.original.uber_monster",
+    "nombre": "Monster Uber Monster",
+    "nombreCorto": "Uber Monster",
+    "serieId": "Original",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 260,
+    "id": "monster.original.uber_monster_2",
+    "nombre": "Monster Uber Monster",
+    "nombreCorto": "Uber Monster",
+    "serieId": "Original",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 261,
+    "id": "monster.original.mutant_super_soda_red_dawn",
+    "nombre": "Monster Mutant Super Soda Red Dawn",
+    "nombreCorto": "Mutant Super Soda Red Dawn",
+    "serieId": "Original",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 262,
+    "id": "monster.original.mutant_super_soda_white_lightning",
+    "nombre": "Monster Mutant Super Soda White Lightning",
+    "nombreCorto": "Mutant Super Soda White Lightning",
+    "serieId": "Original",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 263,
+    "id": "monster.original.mutant_super_soda_green_flavor",
+    "nombre": "Monster Mutant Super Soda Green Flavor",
+    "nombreCorto": "Mutant Super Soda Green Flavor",
+    "serieId": "Original",
+    "fechaAgregado": "2026-09-01"
+  },
+  {
+    "modelo": 264,
+    "id": "monster.original.mutant_green_flavor",
+    "nombre": "Monster Mutant Green Flavor",
+    "nombreCorto": "Mutant Green Flavor",
+    "serieId": "Original",
+    "fechaAgregado": "2026-09-03"
+  },
+  {
+    "modelo": 265,
+    "id": "monster.original.mutant_red_dawn",
+    "nombre": "Monster Mutant Red Dawn",
+    "nombreCorto": "Mutant Red Dawn",
+    "serieId": "Original",
+    "fechaAgregado": "2026-09-03"
+  },
+  {
+    "modelo": 266,
+    "id": "monster.original.mutant_gold_strike",
+    "nombre": "Monster Mutant Gold Strike",
+    "nombreCorto": "Mutant Gold Strike",
+    "serieId": "Original",
+    "fechaAgregado": "2026-09-03"
+  },
+  {
+    "modelo": 267,
+    "id": "monster.x_presso.midnite",
+    "nombre": "Monster X-presso Midnite",
+    "nombreCorto": "Midnite",
+    "serieId": "X-presso",
+    "fechaAgregado": "2026-09-03"
+  },
+  {
+    "modelo": 268,
+    "id": "monster.x_presso.hammer_1",
+    "nombre": "Monster X-presso Hammer",
+    "nombreCorto": "Hammer 1",
+    "serieId": "X-presso",
+    "fechaAgregado": "2026-09-03"
+  },
+  {
+    "modelo": 269,
+    "id": "monster.x_presso.hammer_2",
+    "nombre": "Monster X-presso Hammer",
+    "nombreCorto": "Hammer 2",
+    "serieId": "X-presso",
+    "fechaAgregado": "2026-09-03"
+  },
+  {
+    "modelo": 270,
+    "id": "monster.x_presso.hammer_3",
+    "nombre": "Monster X-presso Hammer",
+    "nombreCorto": "Hammer 3",
+    "serieId": "X-presso",
+    "fechaAgregado": "2026-09-03"
+  },
+  {
+    "modelo": 271,
+    "id": "monster.x_presso.hammer_4",
+    "nombre": "Monster X-presso Hammer",
+    "nombreCorto": "Hammer 4",
+    "serieId": "X-presso",
+    "fechaAgregado": "2026-09-03"
+  },
+  {
+    "modelo": 272,
+    "id": "monster.x_presso.hammer_5",
+    "nombre": "Monster X-presso Hammer",
+    "nombreCorto": "Hammer 5",
+    "serieId": "X-presso",
+    "fechaAgregado": "2026-09-03"
+  },
+  {
+    "modelo": 273,
+    "id": "monster.x_presso.hammer_6",
+    "nombre": "Monster X-presso Hammer",
+    "nombreCorto": "Hammer 6",
+    "serieId": "X-presso",
+    "fechaAgregado": "2026-09-03"
+  },
+  {
+    "modelo": 274,
+    "id": "monster.edicion_especial.og_call_of_duty_warzone_mobile",
+    "nombre": "OG Call of Duty Warzone Mobile",
+    "nombreCorto": "OG Warzone Mobile",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 275,
+    "id": "monster.edicion_especial.uz_call_of_duty_warzone_mobile",
+    "nombre": "UZ Call of Duty Warzone Mobile",
+    "nombreCorto": "UZ Warzone Mobile",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 276,
+    "id": "monster.edicion_especial.ml_call_of_duty_warzone_mobile",
+    "nombre": "ML Call of Duty Warzone Mobile",
+    "nombreCorto": "ML Warzone Mobile",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 277,
+    "id": "monster.edicion_especial.as_call_of_duty_modern_warfare_ii",
+    "nombre": "AS Call of Duty Modern Warfare II",
+    "nombreCorto": "AS Modern Warfare II",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 278,
+    "id": "monster.edicion_especial.og_call_of_duty_modern_warfare_iv",
+    "nombre": "OG Call of Duty Modern Warfare IV",
+    "nombreCorto": "OG Modern Warfare IV",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 279,
+    "id": "monster.edicion_especial.ml_call_of_duty_modern_warfare_iv",
+    "nombre": "ML Call of Duty Modern Warfare IV",
+    "nombreCorto": "ML Modern Warfare IV",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 280,
+    "id": "monster.edicion_especial.uz_call_of_duty_modern_warfare_iv",
+    "nombre": "UZ Call of Duty Modern Warfare IV",
+    "nombreCorto": "UZ Modern Warfare IV",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 281,
+    "id": "monster.edicion_especial.og_az_call_of_duty_ghost",
+    "nombre": "OG-AZ Call of Duty Ghost",
+    "nombreCorto": "OG-AZ Ghost",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 282,
+    "id": "monster.edicion_especial.og_call_of_duty_ghost",
+    "nombre": "OG Call of Duty Ghost",
+    "nombreCorto": "OG Ghost",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 283,
+    "id": "monster.edicion_especial.lc_call_of_duty_ghost",
+    "nombre": "LC Call of Duty Ghost",
+    "nombreCorto": "LC Ghost",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 284,
+    "id": "monster.edicion_especial.uz_call_of_duty_modern_warfare_iii",
+    "nombre": "UZ Call of Duty Modern Warfare III",
+    "nombreCorto": "UZ Modern Warfare III",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 285,
+    "id": "monster.edicion_especial.ml_call_of_duty_modern_warfare_iii",
+    "nombre": "ML Call of Duty Modern Warfare III",
+    "nombreCorto": "ML Modern Warfare III",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 286,
+    "id": "monster.edicion_especial.og_call_of_duty_modern_warfare_iii",
+    "nombre": "OG Call of Duty Modern Warfare III",
+    "nombreCorto": "OG Modern Warfare III",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 287,
+    "id": "monster.edicion_especial.og_az_rp_az_call_of_duty_infinite_warfare",
+    "nombre": "OG-AZ-RP-AZ Call of Duty Infinite Warfare",
+    "nombreCorto": "OG-AZ-RP-AZ Infinite Warfare",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 288,
+    "id": "monster.edicion_especial.az_call_of_duty_advanced_warfare",
+    "nombre": "AS Call of Duty Advanced Warfare",
+    "nombreCorto": "AS Advanced Warfare",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 289,
+    "id": "monster.edicion_especial.og_call_of_duty_advanced_warfare",
+    "nombre": "OG Call of Duty Advanced Warfare",
+    "nombreCorto": "OG Advanced Warfare",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 290,
+    "id": "monster.edicion_especial.og_lc_az_battlefield",
+    "nombre": "OG-LC-AZ Battlefield",
+    "nombreCorto": "OG-LC-AZ Battlefield",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 291,
+    "id": "monster.edicion_especial.og_mega_battlefield",
+    "nombre": "OG Mega Battlefield",
+    "nombreCorto": "OG Mega Battlefield",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 292,
+    "id": "monster.edicion_especial.lc_halo",
+    "nombre": "LC Halo",
+    "nombreCorto": "LC Halo",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 293,
+    "id": "monster.edicion_especial.og_halo_2",
+    "nombre": "OG Halo 2",
+    "nombreCorto": "OG Halo 2",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 294,
+    "id": "monster.edicion_especial.uz_halo_3",
+    "nombre": "UZ Halo 3",
+    "nombreCorto": "UZ Halo 3",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 295,
+    "id": "monster.edicion_especial.og_assassins_creed",
+    "nombre": "OG Assassin's Creed",
+    "nombreCorto": "OG Assassin's Creed",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 296,
+    "id": "monster.edicion_especial.og_assassins_creed_2",
+    "nombre": "OG Assassin's Creed 2",
+    "nombreCorto": "OG Assassin's Creed 2",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 297,
+    "id": "monster.edicion_especial.rp_assassins_creed_3",
+    "nombre": "RP Assassin's Creed 3",
+    "nombreCorto": "RP Assassin's Creed 3",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 298,
+    "id": "monster.edicion_especial.az_assassins_creed_4",
+    "nombre": "AZ Assassin's Creed 4",
+    "nombreCorto": "AZ Assassin's Creed 4",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 299,
+    "id": "monster.edicion_especial.og_pubg_mobile",
+    "nombre": "OG PUBG Mobile",
+    "nombreCorto": "OG PUBG Mobile",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 300,
+    "id": "monster.edicion_especial.og_pubg_mobile_2",
+    "nombre": "OG PUBG Mobile 2",
+    "nombreCorto": "OG PUBG Mobile 2",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 301,
+    "id": "monster.edicion_especial.og_free_team_gear",
+    "nombre": "OG Free Team gear",
+    "nombreCorto": "OG Free Team gear",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 302,
+    "id": "monster.edicion_especial.lando_norris_zero_sugar_gold",
+    "nombre": "Lando Norris Zero Sugar Gold",
+    "nombreCorto": "Lando Norris Zero Sugar Gold",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 303,
+    "id": "monster.edicion_especial.vr46_the_doctor",
+    "nombre": "VR46 / The Doctor",
+    "nombreCorto": "VR46 / The Doctor",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 304,
+    "id": "monster.edicion_especial.vr46_the_doctor_2",
+    "nombre": "VR46 / The Doctor 2",
+    "nombreCorto": "VR46 / The Doctor 2",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 305,
+    "id": "monster.edicion_especial.lewis_hamilton_zero_sugar",
+    "nombre": "Lewis Hamilton Zero Sugar",
+    "nombreCorto": "Lewis Hamilton Zero Sugar",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 306,
+    "id": "monster.edicion_especial.lando_norris_zero_sugar",
+    "nombre": "Lando Norris Zero Sugar",
+    "nombreCorto": "Lando Norris Zero Sugar",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 307,
+    "id": "monster.edicion_especial.full_throttle",
+    "nombre": "Full Throttle´",
+    "nombreCorto": "Full Throttle´",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 308,
+    "id": "monster.edicion_especial.top_speed",
+    "nombre": "Top Speed",
+    "nombreCorto": "Top Speed",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 309,
+    "id": "monster.edicion_especial.og_oscar_piastri",
+    "nombre": "OG Oscar Piastri",
+    "nombreCorto": "OG Oscar Piastri",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 310,
+    "id": "monster.edicion_especial.og_x4_lewis_hamilton",
+    "nombre": "OG X4 Lewis Hamilton",
+    "nombreCorto": "OG X4 Lewis Hamilton",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 311,
+    "id": "monster.edicion_especial.og_x5_lewis_hamilton",
+    "nombre": "OG X5 Lewis Hamilton",
+    "nombreCorto": "OG X5 Lewis Hamilton",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 312,
+    "id": "monster.edicion_especial.lewis_hamilton_zero_sugar_tres_stars",
+    "nombre": "Lewis Hamilton Zero Sugar tres Stars",
+    "nombreCorto": "Lewis Hamilton Zero Sugar tres Stars",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 313,
+    "id": "monster.edicion_especial.lewis_hamilton_zero_sugar_cinco_stars",
+    "nombre": "Lewis Hamilton Zero Sugar cinco Stars",
+    "nombreCorto": "Lewis Hamilton Zero Sugar cinco Stars",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 314,
+    "id": "monster.edicion_especial.lewis_hamilton_zero_sugar_seis_stars",
+    "nombre": "Lewis Hamilton Zero Sugar seis Stars",
+    "nombreCorto": "Lewis Hamilton Zero Sugar seis Stars",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 315,
+    "id": "monster.edicion_especial.og_ricky_carmichael",
+    "nombre": "OG Ricky Carmichael",
+    "nombreCorto": "OG Ricky Carmichael",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 316,
+    "id": "monster.edicion_especial.og_ryan_villipoto",
+    "nombre": "OG Ryan Villipoto",
+    "nombreCorto": "OG Ryan Villipoto",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 317,
+    "id": "monster.edicion_especial.og_dick_kramer",
+    "nombre": "OG Dick Kramer",
+    "nombreCorto": "OG Dick Kramer",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 318,
+    "id": "monster.edicion_especial.lc_dick_kramer",
+    "nombre": "LC Dick Kramer",
+    "nombreCorto": "LC Dick Kramer",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 319,
+    "id": "monster.edicion_especial.og_dick_kramer_2",
+    "nombre": "OG Dick Kramer 2",
+    "nombreCorto": "OG Dick Kramer 2",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 320,
+    "id": "monster.edicion_especial.og_jdub_jamie_whincup",
+    "nombre": "OG JDUB Jamie Whincup",
+    "nombreCorto": "OG JDUB Jamie Whincup",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 321,
+    "id": "monster.edicion_especial.og_ken_block",
+    "nombre": "OG Ken Block",
+    "nombreCorto": "OG Ken Block",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 322,
+    "id": "monster.edicion_especial.og_ken_block_2",
+    "nombre": "OG Ken Block 2",
+    "nombreCorto": "OG Ken Block 2",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 323,
+    "id": "monster.edicion_especial.og_bomb_squad_experience_rugby",
+    "nombre": "OG Bomb Squad experience rugby",
+    "nombreCorto": "OG Bomb Squad experience rugby",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 324,
+    "id": "monster.edicion_especial.og_bomb_squad_experience_rugby_2",
+    "nombre": "OG Bomb Squad experience rugby 2",
+    "nombreCorto": "OG Bomb Squad experience rugby 2",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 325,
+    "id": "monster.edicion_especial.og_bomb_squad_experience_rugby_3",
+    "nombre": "OG Bomb Squad experience rugby 3",
+    "nombreCorto": "OG Bomb Squad experience rugby 3",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 326,
+    "id": "monster.edicion_especial.og_bomb_squad_experience_rugby_4",
+    "nombre": "OG Bomb Squad experience rugby 4",
+    "nombreCorto": "OG Bomb Squad experience rugby 4",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 327,
+    "id": "monster.edicion_especial.og_bomb_squad_experience_rugby_5",
+    "nombre": "OG Bomb Squad experience rugby 5",
+    "nombreCorto": "OG Bomb Squad experience rugby 5",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 328,
+    "id": "monster.edicion_especial.og_bomb_squad_experience_rugby_6",
+    "nombre": "OG Bomb Squad experience rugby 6",
+    "nombreCorto": "OG Bomb Squad experience rugby 6",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 329,
+    "id": "monster.edicion_especial.og_bomb_squad_experience_rugby_7",
+    "nombre": "OG Bomb Squad experience rugby 7",
+    "nombreCorto": "OG Bomb Squad experience rugby 7",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 330,
+    "id": "monster.edicion_especial.og_bomb_squad_experience_rugby_8",
+    "nombre": "OG Bomb Squad experience rugby 8",
+    "nombreCorto": "OG Bomb Squad experience rugby 8",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 331,
+    "id": "monster.edicion_especial.og_unlock_the_vault",
+    "nombre": "OG Unlock The Vault",
+    "nombreCorto": "OG Unlock The Vault",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 332,
+    "id": "monster.edicion_especial.lc_unlock_the_vault",
+    "nombre": "LC Unlock The Vault",
+    "nombreCorto": "LC Unlock The Vault",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 333,
+    "id": "monster.edicion_especial.og_slash_can",
+    "nombre": "OG Slash Can",
+    "nombreCorto": "OG Slash Can",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 334,
+    "id": "monster.edicion_especial.og_exclusivos_articulos_team",
+    "nombre": "OG Exclusivos Articulos Team",
+    "nombreCorto": "OG Exclusivos Articulos Team",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 335,
+    "id": "monster.edicion_especial.lc_apex_legends",
+    "nombre": "LC Apex Legends",
+    "nombreCorto": "LC Apex Legends",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 336,
+    "id": "monster.edicion_especial.lc_apex_legends_2",
+    "nombre": "LC Apex Legends 2",
+    "nombreCorto": "LC Apex Legends 2",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 337,
+    "id": "monster.edicion_especial.lc_apex_legends_3",
+    "nombre": "LC Apex Legends 3",
+    "nombreCorto": "LC Apex Legends 3",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 338,
+    "id": "monster.edicion_especial.lc_apex_legends_4",
+    "nombre": "LC Apex Legends 4",
+    "nombreCorto": "LC Apex Legends 4",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 339,
+    "id": "monster.edicion_especial.uz_apex_legends",
+    "nombre": "UZ Apex Legends",
+    "nombreCorto": "UZ Apex Legends",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 340,
+    "id": "monster.edicion_especial.uz_apex_legends_2",
+    "nombre": "UZ Apex Legends 2",
+    "nombreCorto": "UZ Apex Legends 2",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 341,
+    "id": "monster.edicion_especial.uz_apex_legends_3",
+    "nombre": "UZ Apex Legends 3",
+    "nombreCorto": "UZ Apex Legends 3",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 342,
+    "id": "monster.edicion_especial.uz_apex_legends_4",
+    "nombre": "UZ Apex Legends 4",
+    "nombreCorto": "UZ Apex Legends 4",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 343,
+    "id": "monster.edicion_especial.og_apex_legends",
+    "nombre": "OG Apex Legends",
+    "nombreCorto": "OG Apex Legends",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 344,
+    "id": "monster.edicion_especial.og_apex_legends_2",
+    "nombre": "OG Apex Legends 2",
+    "nombreCorto": "OG Apex Legends 2",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 345,
+    "id": "monster.edicion_especial.og_apex_legends_3",
+    "nombre": "OG Apex Legends 3",
+    "nombreCorto": "OG Apex Legends 3",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 346,
+    "id": "monster.edicion_especial.as_apex_legends",
+    "nombre": "AS Apex Legends",
+    "nombreCorto": "AS Apex Legends",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 347,
+    "id": "monster.edicion_especial.as_apex_legends_2",
+    "nombre": "AS Apex Legends 2",
+    "nombreCorto": "AS Apex Legends 2",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 348,
+    "id": "monster.edicion_especial.og_call_of_duty_black_ops_vii",
+    "nombre": "OG Call of Duty Black Ops VII",
+    "nombreCorto": "OG Black Ops VII",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 349,
+    "id": "monster.edicion_especial.uz_call_of_duty_black_ops_vii",
+    "nombre": "UZ Call of Duty Black Ops VII",
+    "nombreCorto": "UZ Black Ops VII",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 350,
+    "id": "monster.edicion_especial.ml_call_of_duty_black_ops_vii",
+    "nombre": "ML Call of Duty Black Ops VII",
+    "nombreCorto": "ML Black Ops VII",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 351,
+    "id": "monster.edicion_especial.og_call_of_duty_black_ops_vi",
+    "nombre": "OG Call of Duty Black Ops VI",
+    "nombreCorto": "OG Black Ops VI",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 352,
+    "id": "monster.edicion_especial.uz_call_of_duty_black_ops_vi",
+    "nombre": "UZ Call of Duty Black Ops VI",
+    "nombreCorto": "UZ Black Ops VI",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 353,
+    "id": "monster.edicion_especial.ml_call_of_duty_black_ops_vi",
+    "nombre": "ML Call of Duty Black Ops VI",
+    "nombreCorto": "ML Black Ops VI",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 354,
+    "id": "monster.edicion_especial.og_call_of_duty_black_ops_iv",
+    "nombre": "OG Call of Duty Black Ops IV",
+    "nombreCorto": "OG Black Ops IV",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 355,
+    "id": "monster.edicion_especial.og_call_of_duty_black_ops_iv_2",
+    "nombre": "OG Call of Duty Black Ops IV 2",
+    "nombreCorto": "OG Black Ops IV 2",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 356,
+    "id": "monster.edicion_especial.og_call_of_duty_black_ops_iii",
+    "nombre": "OG Call of Duty Black Ops III",
+    "nombreCorto": "OG Black Ops III",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 357,
+    "id": "monster.edicion_especial.og_james_courtney",
+    "nombre": "OG James Courtney",
+    "nombreCorto": "OG James Courtney",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 358,
+    "id": "monster.edicion_especial.uz_honor_of_kings",
+    "nombre": "UZ Honor Of Kings",
+    "nombreCorto": "UZ Honor Of Kings",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 359,
+    "id": "monster.edicion_especial.og_win_rashid_khan",
+    "nombre": "OG Win Rashid Khan",
+    "nombreCorto": "OG Win Rashid Khan",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 360,
+    "id": "monster.edicion_especial.og_alexander_radulov",
+    "nombre": "OG Alexander Radulov",
+    "nombreCorto": "OG Alexander Radulov",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 361,
+    "id": "monster.edicion_especial.og_nico_hischier",
+    "nombre": "OG Nico Hischier",
+    "nombreCorto": "OG Nico Hischier",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 362,
+    "id": "monster.edicion_especial.uz_kontra_k",
+    "nombre": "UZ Kontra K",
+    "nombreCorto": "UZ Kontra K",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 363,
+    "id": "monster.edicion_especial.uz_tear_into_festival_season",
+    "nombre": "UZ Tear Into Festival season",
+    "nombreCorto": "UZ Tear Into Festival season",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 364,
+    "id": "monster.edicion_especial.og_tear_into_festival_season",
+    "nombre": "OG Tear Into Festival season",
+    "nombreCorto": "OG Tear Into Festival season",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 365,
+    "id": "monster.edicion_especial.lc_tear_into_festival_season",
+    "nombre": "LC Tear Into Festival season",
+    "nombreCorto": "LC Tear Into Festival season",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 366,
+    "id": "monster.edicion_especial.og_hardik_pandya",
+    "nombre": "OG Hardik Pandya",
+    "nombreCorto": "OG Hardik Pandya",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 367,
+    "id": "monster.edicion_especial.og_hardik_pandya_2",
+    "nombre": "OG Hardik Pandya 2",
+    "nombreCorto": "OG Hardik Pandya 2",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 368,
+    "id": "monster.edicion_especial.og_rema_x_fireboy_the_geng",
+    "nombre": "OG Rema x Fireboy The Geng",
+    "nombreCorto": "OG Rema x Fireboy The Geng",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 369,
+    "id": "monster.edicion_especial.og_ayumu_hirano",
+    "nombre": "OG Ayumu Hirano",
+    "nombreCorto": "OG Ayumu Hirano",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 370,
+    "id": "monster.edicion_especial.uz_ayumu_hirano",
+    "nombre": "UZ Ayumu Hirano",
+    "nombreCorto": "UZ Ayumu Hirano",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 371,
+    "id": "monster.edicion_especial.og_anna_tsuchiya",
+    "nombre": "OG Anna Tsuchiya",
+    "nombreCorto": "OG Anna Tsuchiya",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  },
+  {
+    "modelo": 372,
+    "id": "monster.edicion_especial.og_win_a_mustang_rtr",
+    "nombre": "OG Win a Mustang RTR",
+    "nombreCorto": "OG Win a Mustang RTR",
+    "serieId": "Edicion especial",
+    "fechaAgregado": "2026-09-12"
+  }
+]
