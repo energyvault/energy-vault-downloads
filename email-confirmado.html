@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Energy Vault | Correo confirmado</title>
+
+  <meta
+    name="description"
+    content="Tu correo electrónico fue confirmado correctamente en Energy Vault."
+  >
+
+  <meta name="theme-color" content="#101810">
+
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 24px;
+
+      background:
+        radial-gradient(
+          circle at top,
+          #1b2a1b 0%,
+          #101810 45%,
+          #090d09 100%
+        );
+
+      color: #ffffff;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .container {
+      width: 100%;
+      max-width: 520px;
+      text-align: center;
+    }
+
+    .logo {
+      width: 110px;
+      height: 110px;
+      object-fit: contain;
+      margin-bottom: 28px;
+      border-radius: 24px;
+    }
+
+    .card {
+      padding: 36px 30px;
+      border-radius: 22px;
+
+      background: rgba(20, 28, 20, 0.94);
+
+      border: 1px solid rgba(255, 255, 255, 0.08);
+
+      box-shadow:
+        0 20px 60px rgba(0, 0, 0, 0.45);
+    }
+
+    .check {
+      width: 64px;
+      height: 64px;
+      margin: 0 auto 22px;
+
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      border-radius: 50%;
+
+      background: #1fa34a;
+      color: white;
+
+      font-size: 34px;
+      font-weight: bold;
+    }
+
+    h1 {
+      margin: 0 0 16px;
+
+      font-size: 28px;
+      line-height: 1.2;
+    }
+
+    p {
+      margin: 0;
+
+      color: #c8cec8;
+
+      font-size: 17px;
+      line-height: 1.6;
+    }
+
+    .brand {
+      margin-top: 28px;
+
+      color: #8fd14f;
+
+      font-size: 18px;
+      font-weight: bold;
+      letter-spacing: 0.3px;
+    }
+
+    @media (max-width: 480px) {
+      .card {
+        padding: 30px 22px;
+      }
+
+      h1 {
+        font-size: 24px;
+      }
+
+      p {
+        font-size: 16px;
+      }
+
+      .logo {
+        width: 90px;
+        height: 90px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <main class="container">
+
+    <img
+      class="logo"
+      src="assets/images/app_icon.png"
+      alt="Energy Vault"
+    >
+
+    <section class="card">
+
+      <div class="check">
+        ✓
+      </div>
+
+      <h1 id="title">
+        ¡Correo confirmado!
+      </h1>
+
+      <p id="message">
+        Tu correo fue verificado correctamente.
+        Ya podés volver a Energy Vault e iniciar sesión con este correo.
+      </p>
+
+      <div class="brand">
+        Energy Vault
+      </div>
+
+    </section>
+
+  </main>
+
+  <script>
+    const language = navigator.language.toLowerCase();
+
+    const translations = {
+      es: {
+        title: '¡Correo confirmado!',
+        message:
+          'Tu correo fue verificado correctamente. Ya podés volver a Energy Vault e iniciar sesión con este correo.'
+      },
+
+      en: {
+        title: 'Email confirmed!',
+        message:
+          'Your email was successfully verified. You can now return to Energy Vault and sign in with this email.'
+      },
+
+      pt: {
+        title: 'E-mail confirmado!',
+        message:
+          'Seu e-mail foi verificado com sucesso. Agora você pode voltar ao Energy Vault e iniciar sessão com este e-mail.'
+      }
+    };
+
+    let lang = 'es';
+
+    if (language.startsWith('en')) {
+      lang = 'en';
+    } else if (language.startsWith('pt')) {
+      lang = 'pt';
+    }
+
+    document.documentElement.lang = lang;
+
+    document.getElementById('title').textContent =
+      translations[lang].title;
+
+    document.getElementById('message').textContent =
+      translations[lang].message;
+  </script>
+
+</body>
+</html>
