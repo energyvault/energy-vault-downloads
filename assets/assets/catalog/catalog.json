@@ -2974,5 +2974,21 @@
     "nombreCorto": "OG Win a Mustang RTR",
     "serieId": "Edicion especial",
     "fechaAgregado": "2026-09-12"
-  }
+  },
+  {
+  "modelo": 373,
+  "id": "monster.original.mega_og",
+  "nombre": "Monster Mega OG",
+  "nombreCorto": "Mega OG",
+  "serieId": "Original",
+  "fechaAgregado": "2026-09-28"
+},
+{
+  "modelo": 374,
+  "id": "monster.ultra.mega_ultra_zero",
+  "nombre": "Monster Mega Ultra Zero",
+  "nombreCorto": "Mega Ultra Zero",
+  "serieId": "Ultra",
+  "fechaAgregado": "2026-09-28"
+}
 ]
