@@ -136398,7 +136398,7 @@ aoc(a,b){var s=0,r=A.q(t.W8),q,p=this,o
 var $async$Gj=A.m(function(c,d){if(c===1)return A.n(d,r)
 for(;;)switch(s){case 0:o=B.e.cz(a)
 s=3
-return A.h(p.a.geF().AL(o.toLowerCase(),"https://tomasarana1313-crypto.github.io/energy-vault-downloads/email-confirmado.html",b),$async$Gj)
+return A.h(p.a.geF().AL(o.toLowerCase(),"https://energyvault.app/email-confirmado.html",b),$async$Gj)
 case 3:q=d
 s=1
 break
